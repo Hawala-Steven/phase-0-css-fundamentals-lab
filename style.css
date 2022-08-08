@@ -17,8 +17,13 @@ figcaption {text-align: center;
 font-size: small;}
 section > p {text-align: center;
   width: 800px;
+  margin: auto;
 }
-div {float: left;}
-div {background-color: red;
-border-bottom-width: 25px;
-text-align: center;}
+div 
+  {float: left;
+}
+div 
+  {background-color: red;
+  border-bottom-width: 25px;
+  text-align: center;
+}
